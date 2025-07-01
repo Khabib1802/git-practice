@@ -1,3 +1,18 @@
+# Khabib Gadzhimagomedov  
+**Junior Frontend Developer**  
+Makhachkala, Russia | Open to remote work  
+habib31.03.2002@gmail.com | +7 (918) 844-47-28  
+[GitHub](https://github.com/Khabib1802) | [Telegram](https://t.me/kebabgg) 
+
+## Summary  
+Entry-level Frontend Developer with solid knowledge of **HTML, CSS, and JavaScript**. Passionate about building responsive, user-friendly web interfaces. Eager to contribute to real-world projects, and collaborate in a team.
+
+## Skills  
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+), Responsive Design  
+- **Tools**: Git, GitHub, VS Code, Figma  
+
+## Projects  
+```
 // Create an array and add elements
 const fruits = ['Apple', "Pear"];
 fruits.unshift('Banana');
@@ -18,13 +33,18 @@ console.log(doubled); // [2, 4, 6, 8]
 let values = [5, 12, 8, 3, 7];
 let evens = values.filter((x) => x % 2 === 0);
 console.log(evens); // [12, 8]
+```
+## Education  
+### Dagestan State Technical University  
+**Bachelor’s in Computer Science** | 2026   
 
-dhjdkjsfsdklfjskljdksdhjfsdkfdjh
-julsdkfjsf
-sujfsolifdlsfjuesf
-dlfjslfjslkfjdsklifjsdkljskjiflhskidhsfkishfeof very important
+### Online Courses 
+- RS School - JS / Front-end Course | 2025  
 
-difsoifdsfjdslifjsdklifjsdklif
-dsifjdfsdpof
+## Languages  
+- **Russian**: Native  
+- **English**: Intermediate (B1)  
 
-jfkljslkfjshfj
+---  
+
+THE END
