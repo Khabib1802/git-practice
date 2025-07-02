@@ -1,3 +1,5 @@
+This text must not be committed yet!!! - Ok, it's time to commit this!
+
 # Khabib Gadzhimagomedov  
 **Junior Frontend Developer**  
 Makhachkala, Russia | Open to remote work  
