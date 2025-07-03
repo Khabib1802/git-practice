@@ -79,3 +79,5 @@ Changes that have to be committed quickly, without indexing them.
 Changes which still don't be committed! I think, we are ready to commit this!
 
 Commit with comments.
+
+One more way to create comments in commits.
